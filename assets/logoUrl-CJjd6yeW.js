@@ -1,0 +1,1 @@
+const r="https://myiptv-api.onrender.com".replace(/\/$/,"");function t(e){if(!e)return null;if(e.startsWith("/public/"))return`${r}/api${e}`;const o=btoa(e).replace(/\+/g,"-").replace(/\//g,"_").replace(/=/g,"");return`${r}/api/logos/proxy?url=${o}`}export{t as l};
