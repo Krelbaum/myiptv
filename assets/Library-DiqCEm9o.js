@@ -1,0 +1,1 @@
+import{j as e}from"./vendor-query-Dj5OYTYr.js";function s(){return e.jsxs("div",{className:"flex flex-col items-center justify-center py-32 text-center gap-2 animate-slide-in-left px-6 py-6 lg:px-8",children:[e.jsx("h1",{className:"text-xl font-medium text-white",children:"Видеотека"}),e.jsx("p",{className:"text-muted",children:"Раздел в разработке"})]})}export{s as Library};
